@@ -7,7 +7,7 @@ package activity;
  * @author 
  *
  */
-public class Calculator {
+public class Calculator<x, y> {
 		
 	public static void main(String[] args) {
 		
@@ -31,13 +31,17 @@ public class Calculator {
 
 	private static int subtract(int x, int y) {
 		int diff = 0;
-		if (x > y) {
-			// complete the code
+
+		if (x > y);
 			int diff = x - y;
-			return diff;
+		return diff;
 
 
-		} else {
+		else {
+			diff = y - x;
+		return diff;
+
+		{
 			// complete the code
 
 

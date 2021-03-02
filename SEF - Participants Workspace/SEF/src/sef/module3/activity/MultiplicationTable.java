@@ -33,13 +33,18 @@ public class MultiplicationTable {
 				System.out.println(i + "X" + j +" = " + i*j);
 		
 		// complete code. write for loop for int i
-			System.out.println("*** Table of "+i + " ***");
+				for (int i1 = 1; i1 <= 20; i1++) {
+			System.out.println("*** Table of "+i1 + " ***");
+				for (int j1 = 1; j1 <= 20; j1++) {
 			// complete code. write nested for loop for int j
-				System.out.println(i + "X" + j +" = " + i*j);
+				System.out.println(i1 + "X" + j1 +" = " + i1*j1);
 		}
 		}
 		
 		
 	}
 
+}
+
+	}
 }
