@@ -1,7 +1,7 @@
 /**
  * 
  */
-package sef.module3.activity;
+package activity;
 
 /**
  * @author 
@@ -33,8 +33,14 @@ public class Calculator {
 		int diff = 0;
 		if (x > y) {
 			// complete the code
+			int diff = x - y;
+			return diff;
+
+
 		} else {
 			// complete the code
+
+
 		}
 
 		return diff;
