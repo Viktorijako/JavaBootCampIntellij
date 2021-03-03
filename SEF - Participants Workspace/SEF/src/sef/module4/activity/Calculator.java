@@ -1,7 +1,8 @@
 /**
  * 
  */
-package sef.module4.activity;
+package activity;
+
 
 /**
  * @author 
@@ -9,8 +10,10 @@ package sef.module4.activity;
  */
 public class Calculator {
 
-	
-	private String calculatorType;
+	public static void main(String arg[]){
+		System.out.println("Add results is " +int sum);}
+
+		private String calculatorType;
 	public static final String CALC_TYPE_BASIC = "Basic";
 	
 	// Default constructor
@@ -70,5 +73,11 @@ public class Calculator {
 		}
 		return divValue;
 
+
+
+
 	}
-}
+
+
+	}
+	}

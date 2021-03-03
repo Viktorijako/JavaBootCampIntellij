@@ -7,7 +7,7 @@ package activity;
  * @author 
  *
  */
-public class Calculator<x, y> {
+public class Calculator {
 		
 	public static void main(String[] args) {
 		
