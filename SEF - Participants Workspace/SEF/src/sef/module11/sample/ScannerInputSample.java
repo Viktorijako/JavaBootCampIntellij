@@ -1,4 +1,4 @@
-package sef.module11.sample;
+package sample;
 import java.util.*;
 // Complete Code
 public class ScannerInputSample
