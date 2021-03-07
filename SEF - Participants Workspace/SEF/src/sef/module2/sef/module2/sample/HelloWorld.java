@@ -1,4 +1,4 @@
-package sef.module2.sample;
+package sample;
 
 public class HelloWorld {
 	

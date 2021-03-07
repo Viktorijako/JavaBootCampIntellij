@@ -1,4 +1,4 @@
-package sef.module17.activity;
+package activity;
 //Needs to be completed
 import java.sql.Connection;
 import java.util.ArrayList;
@@ -21,6 +21,9 @@ public class EmployeeJDBCTest extends TestCase {
 	}
 
 	public void testFindEmployeeById_MatchFound() {
+
+		Employee em = emp.findEmployeeById("1");
+
 		//complete the code here
 	}
 
